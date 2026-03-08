@@ -1,14 +1,3 @@
-"Criando uma Calculador em python" 
-# Criando calculadora simples em python
-
-<div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycGNmYjlneTlmdzAycGk3cTFid2U1N3ZxbTBsd244OHdzZXA5YWd0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BmmfETghGOPrW/giphy.gif" width="200">
-</div>
-
----
-
-```python
-
 # Criando uma Calculadora
 from decimal import Decimal
 
@@ -38,5 +27,3 @@ def calc(n1,n2):
     
 print(f'Resultado: {calc(numero1, numero1)}')
 print("================================================")
-
-```
